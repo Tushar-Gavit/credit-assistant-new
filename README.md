@@ -1,5 +1,8 @@
 # Credit Assistant
 
+#Documentation Link(Drive):
+https://drive.google.com/drive/folders/1C3PA0eFRSN5QUftCZSlVSzrSvJeEcc2r?usp=sharing
+
 ## Run
 1. PostgreSQL: `createdb credit_assistant`
 2. Backend
